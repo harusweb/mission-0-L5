@@ -1,0 +1,19 @@
+{
+  "name": "hans-marketing-backend",
+  "version": "1.0.0",
+  "description": "i put the news here in the backend because why not",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
+
